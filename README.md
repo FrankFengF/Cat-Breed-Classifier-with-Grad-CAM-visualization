@@ -1,6 +1,12 @@
 # 🐱 Cat Breed Classifier with Grad-CAM Visualization
 This repository contains a deep learning model for classifying four cat breeds—Abyssinian, Persian, Toyger, and Munchkin—using convolutional neural networks (CNNs). It also includes Grad-CAM visualizations to highlight the regions of the image the model focuses on when making predictions.
 
+<p align="center">
+  <img src="Cat Identifier.png" width="500" alt="Cat Identification Workflow">
+  <br/>
+  <em>Image generated with DALL·E</em>
+</p>
+
 # 🚀 Features
 Image classification of 4 cat breeds with ~83% accuracy
 
